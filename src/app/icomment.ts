@@ -3,5 +3,5 @@ export interface IComment {
   like: number;
   dislike: number;
   star: number;
-  numberOfReviews: number; 
+  numberOfReviews: number;
 }
