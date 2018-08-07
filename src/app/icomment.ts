@@ -1,5 +1,5 @@
 export interface IComment {
-  comment: string;
+  comment2: string;
   like: number;
   dislike: number;
   star: number;
