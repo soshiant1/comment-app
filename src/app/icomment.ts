@@ -1,7 +1,7 @@
 export interface IComment {
-  comment2: string;
+  comment: string;
   like: number;
   dislike: number;
   star: number;
-  numberOfReviews: number;
+  NumberOfReviews: number;
 }
