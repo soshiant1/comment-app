@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+.navbar{
+  border-radius: 0px !important;
+}
+html,body{
+  background-color: black !important;
+}
+.crop{
+  overflow: hidden;
+}
+label{color: white !important;font-weight: normal !important;}
